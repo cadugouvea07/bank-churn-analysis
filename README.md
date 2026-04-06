@@ -23,7 +23,7 @@ Customer attrition (churn) is one of the most critical metrics for financial ins
 1. **The Global Baseline:** The bank has an overall churn rate of **20.37%**.
 2. **The Structural Flaw (Age):** Customers between **51-60 years old** represent a critical risk, with a churn rate exceeding **56%** globally.
 3. **The Perfect Storm (Germany):** While Germany represents only 25% of the customer base, it acts as an accelerator for churn. The churn rate for **Inactive German customers** hits an alarming **41.08%**. When cross-referencing Country and Age, the churn rate for **German clients aged 51-60** skyrockets to **70.04%**.
-4. **Financial Impact (Capital at Risk):** The analysis revealed a severe financial vulnerability. German customers not only churn at higher rates but also hold **almost double the average account balance** (~$118k) compared to clients in France and Spain (~$65k). The bank is losing its highest-value clients.
+4. **Financial Impact (Capital at Risk):** The analysis revealed a severe financial vulnerability. German customers not only churn at higher rates but also hold almost double the average account balance **(approx. $118k)** compared to clients in France and Spain  **(approx. $65k)** . The bank is losing its highest-value clients.
 
 ## 📊 Executive Dashboard![Power BI Executive Dashboard](dashboards/dashboard_bank_churns.png)
 
